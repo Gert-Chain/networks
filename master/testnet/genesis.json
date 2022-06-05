@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "genesis_time": "2022-06-04T20:26:10.505655Z",
+=======
+  "genesis_time": "2022-06-05T19:46:26.116159Z",
+>>>>>>> 248f662 (new push)
   "chain_id": "stella-1",
   "initial_height": "1",
   "consensus_params": {
@@ -33,7 +37,11 @@
       "accounts": [
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
+<<<<<<< HEAD
           "address": "gert1lc2rf73zm4hk77ghv22j3wdvlvk9hrgqedu2ul",
+=======
+          "address": "gert1hraahhmkqfngcl4t00kzafdeqzsk89agluxz8g",
+>>>>>>> 248f662 (new push)
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
@@ -50,11 +58,19 @@
       },
       "balances": [
         {
+<<<<<<< HEAD
           "address": "gert1lc2rf73zm4hk77ghv22j3wdvlvk9hrgqedu2ul",
           "coins": [
             {
               "denom": "ugert",
               "amount": "175000000"
+=======
+          "address": "gert1hraahhmkqfngcl4t00kzafdeqzsk89agluxz8g",
+          "coins": [
+            {
+              "denom": "ugert",
+              "amount": "175000000000000"
+>>>>>>> 248f662 (new push)
             }
           ]
         }
@@ -128,6 +144,7 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
+<<<<<<< HEAD
                 "delegator_address": "gert1lc2rf73zm4hk77ghv22j3wdvlvk9hrgqedu2ul",
                 "validator_address": "gertvaloper1lc2rf73zm4hk77ghv22j3wdvlvk9hrgq7ztfng",
                 "pubkey": {
@@ -141,6 +158,21 @@
               }
             ],
             "memo": "7f7ad752396dfbe8184e931bd2d18877359241df@192.168.1.62:26656",
+=======
+                "delegator_address": "gert1hraahhmkqfngcl4t00kzafdeqzsk89agluxz8g",
+                "validator_address": "gertvaloper1hraahhmkqfngcl4t00kzafdeqzsk89agcn3pgl",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "muAnDyACQqLuLNdRMPwerqt+DU8SYwVouE1ADhWixRs="
+                },
+                "value": {
+                  "denom": "ugert",
+                  "amount": "175000000000000"
+                }
+              }
+            ],
+            "memo": "5c459a2138fdb42048690bc6320443a85b76287f@192.168.1.62:26656",
+>>>>>>> 248f662 (new push)
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -150,7 +182,11 @@
               {
                 "public_key": {
                   "@type": "/cosmos.crypto.secp256k1.PubKey",
+<<<<<<< HEAD
                   "key": "Ao7IIkTHvBP8isJWujD2/FgL7hcJZ339E4FpPp3uBy1N"
+=======
+                  "key": "AmFzBVeyE0vqRf6Wtu+d81NiuLWwkWpYGwrh3CmbEK4G"
+>>>>>>> 248f662 (new push)
                 },
                 "mode_info": {
                   "single": {
@@ -168,7 +204,11 @@
             }
           },
           "signatures": [
+<<<<<<< HEAD
             "W7GXGoAJDwukDeQyh7OhB+6yFKASwIu6Hu5CEe2l1DUhaY54CKy5MxLGGnwgGDUbgoBOilYwLckBduVJLT8dJg=="
+=======
+            "62vA0zbYPOsfiPu98vI/oEIiIHUu9yUpe6gB7ZacXR8wdNDKlFO02kDpcEp///TbrOhIdbJwYyM4xAz8bMyRLw=="
+>>>>>>> 248f662 (new push)
           ]
         }
       ]
